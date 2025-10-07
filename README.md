@@ -19,4 +19,3 @@ Typowe kolumny: `id, neighbourhood, latitude, longitude, room_type, price, minim
 - 5–7 prostych wykresów (PNG) i krótkie wnioski w `reports/summary.md`.
 - (Opcjonalnie) model bazowy + metryki oraz mapka poglądowa.
 
-> Projekt ma charakter **nauki przez praktykę**: minimalna złożoność, czytelny kod i zwięzłe wnioski.
